@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+
+# Ignore all files
+*
+# Ignore files without extensions
+!*.*
+
+# vscode extras
+*.dSYM
